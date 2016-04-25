@@ -21,3 +21,7 @@ def random_list():
 numbers = random_list()
 bubble_sort(numbers)
 
+name = "Ballycyrk"
+othername = name[3:5]
+print othername
+print name
